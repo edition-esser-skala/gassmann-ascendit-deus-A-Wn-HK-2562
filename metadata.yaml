@@ -1,0 +1,19 @@
+composer:
+  last: Gassmann
+  first: Florian Leopold
+title: Ascendit Deus
+genre: gradual
+scoring: S, A, T, B (coro), ob, 2 clno (C), 2 trb, timp (C–G), 2 vl, vla, b, org
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: A-Wn
+    shelfmark: HK.2562
+    rism:
+    url: https://data.onb.ac.at/rec/AC14268948
+    license: public domain
+    principal: true
+    notes: full score (2 trb, 2 vl, S, A, T, B, org) and parts (S (5×), A (5×), T (5×), B (5×), ob, fag, clno 1, clno 2, trb 1, trb 2, timp, vl 1 (3×), vl 2 (3×), vla, vlc, vlne, org, maestro di capella)
+imslp:
+parts:
+  ottoni: Clarino I, II in C\\Timpani in C–G
