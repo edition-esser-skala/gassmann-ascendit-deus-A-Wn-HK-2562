@@ -6,7 +6,7 @@
 \book {
   \bookpart {
     \section "Ascendit Deus"
-    % \addTocEntry
+    \addTocEntry
     \paper { indent = 3\cm }
     \score { %\articulate
       <<
@@ -83,7 +83,7 @@
         \new FiguredBass { \AscenditBassFigures }
       >>
       \layout { }
-      \midi { \tempo 4 = 90 }
+      \midi { \tempo 4 = 70 }
     }
   }
 }
