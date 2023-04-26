@@ -1,21 +1,20 @@
 \version "2.24.0"
 
 \include "../definitions.ly"
-#(define option-instrument-name "org")
+#(define option-instrument-name "trb 1")
 \include "score_settings/one-staff.ly"
 
 \book {
   \bookpart {
     \section "Ascendit Deus"
     \addTocEntry
-    \paper { indent = 2\cm }
+    \paper { indent = 2.5\cm }
     \score {
       <<
         \new Staff {
-          \set Staff.instrumentName = "Organo"
-          \AscenditOrgano
+          \set Staff.instrumentName = "Trombone I"
+          \AscenditTromboneI
         }
-        \new FiguredBass { \AscenditBassFigures }
       >>
     }
   }

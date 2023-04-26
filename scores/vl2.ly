@@ -1,7 +1,7 @@
 \version "2.24.0"
 
 \include "../definitions.ly"
-#(define option-instrument-name "vl 1")
+#(define option-instrument-name "vl 2")
 \include "score_settings/one-staff.ly"
 
 \paper {
@@ -25,8 +25,8 @@
     \score {
       <<
         \new Staff {
-          \set Staff.instrumentName = "Violino I"
-          \AscenditViolinoI
+          \set Staff.instrumentName = "Violino II"
+          \AscenditViolinoII
         }
       >>
     }
